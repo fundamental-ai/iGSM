@@ -17,4 +17,4 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["data_gen*", "tools*"]
+include = ["data_gen*", "tools*", "math_gen*", "const*"] 
